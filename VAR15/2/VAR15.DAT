@@ -1,0 +1,12 @@
+Initial data
+=============
+
+* Initial temperature => 5°C
+                        (if t = 0  ===> T = 5)
+
+* Heat inflows => 1.6 BT/ m^2   and  3.1 BT/m^2
+                (Q0 = 1.6)          (Qf = 3.1)
+for that dQ = 3.1 - 1.6 = 1.5                
+
+Heat transfer coefficient at the boundary ВКС - ГС => 1.8 BT/(m^2*K)  and  3.7 BT/(m^2*K)
+                                                        (lmd1)                  (lmd2)
